@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(0, 0, 0);
+    height: 20px;
+    font-size: 150%;
+    text-align:center
+ 
+
+
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+}
+
+widthhieg h4 {
+    color: rgb(0, 0, 2);
+}
+
+#menudecomidas{
+    color: crimson (187, 73, 73);
+}
+
+#menuparalatarde{
+    color:crimson
+}
+
+#menudetortas{
+    color: crimson;
+}
+
+#parrafo{
+    text-align:center;
+    font-size: 17px;
+}
+
+body{
+    background-color:rgb(217, 256, 217)
+}
